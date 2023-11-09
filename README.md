@@ -16,12 +16,15 @@ A Decision Tree Classifier, Random Forest Classifier and Multinomial Logistic Re
 ### Accuracy ###
 
 Decision Tree Classifier
+
 ![image](https://github.com/ritzx21/Clinical-Symptoms-Prediction/assets/127785847/58b98055-26bf-4ae6-b0a2-ff8a0e650ec5)
 
 Multinomial Logistic Regression
+
 ![image](https://github.com/ritzx21/Clinical-Symptoms-Prediction/assets/127785847/1dbdafd0-d7b3-4db5-a434-5b09a42b2e4c)
 
 Random Forest Classifier
+
 ![image](https://github.com/ritzx21/Clinical-Symptoms-Prediction/assets/127785847/966a8a4f-f858-4635-aeb0-85b2594708be)
 
 
