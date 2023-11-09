@@ -11,7 +11,7 @@ There are a total of 4 datasets used.
 - Symptom_precaution.csv has precautionary measures for every disease
 
 ### Machine Learning Model ### 
-A Decision Tree Classifier, Random Forest Classifier and Multinomial Logistic Regression were used , out of which accuracy using Random Forest Claasifier was the highest.
+A Decision Tree Classifier, Random Forest Classifier and Multinomial Logistic Regression were used , out of which accuracy using Random Forest Classifier was the highest.
 
 ### Accuracy ###
 
